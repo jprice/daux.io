@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",   
+    "title": "Josh's Docs",
+    "tagline": "My personal docs for various crap",
+    "author": "Josh Price",
     "image": "<base_url>img/app.png",
     "theme": "daux-blue",
     "template": "default",
@@ -11,14 +11,14 @@
     "breadcrumb_separator": "Chevrons",
     "date_modified": true,
     "float": true,
-    "file_editor": false,   
-    "repo": "justinwalsh/daux.io",
+    "file_editor": false,
+    "repo": "jprice/daux.io",
     "ignore": {
             "files": ["Work_In_Progress.md"],
             "folders": ["99_Not_Ready"]
     },
-    "twitter": ["justin_walsh", "todaymade"],
-    "google_analytics": "UA-12653604-10",
+    "twitter": ["jprice"],
+    "google_analytics": "",
     "links": {
         "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
         "GitHub Repo": "https://github.com/justinwalsh/daux.io",
@@ -26,3 +26,4 @@
         "Made by Todaymade": "http://todaymade.com"
     }
 }
+
